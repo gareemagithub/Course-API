@@ -1,0 +1,30 @@
+- Regions- AWS has established data centers
+- Availability Zones- a data center or a cluster of data centers within an AWS Region
+- Data Centers- a physical location that stores computing machines and their related hardware equipment.
+- Service Models- IAAS- IAAS is used by network architects,It requires technical knowledge, It is popular among developers and researchers.
+                  PAAS- PAAS is used by developers, Some knowledge is required for the basic setup, It is popular among developers
+                  SAAS- SAAS is used by the end user, There is no requirement about technicalities company handles everythinIt is popular among developers
+
+- compute service
+   - Amazon EC2(Elastic Compute Cloud)- It enables users to run virtual servers,to host applications, databases, and other computing workloads.
+   - AWS Lambda-it enables you to build and deploy applications or services without worrying about the management
+
+- storage service
+   - Amazon S3(Simple Storage service)-Object storage service for storing and retrieving data.
+   - Amazon EBS(Elastic Block Store)- Block-level storage volumes for use with EC2 instances.
+
+-  Database Service
+   - Amazon RDS(Relation Database Service)-Managed relational database service supporting various database engines like MySQL, PostgreSQL, and others.
+   - Amazon DynamoDB- Fully manged NoSQL database service
+
+- Networking
+  - Amazon VPC(Virtual Private Cloud)- allows users to create a logically isolated section of the AWS Cloud where they can launch resources in a virtual network.
+  -Amazon Route 53: Domain Name System (DNS) web service for routing end-user requests to globally distributed AWS resources.
+
+-Security and Identity:
+  - AWS Identity and Access Management (IAM): Enables control and management of access to AWS services and resources.
+  - AWS Key Management Service (KMS): Manages encryption keys for securing data.
+
+
+
+
