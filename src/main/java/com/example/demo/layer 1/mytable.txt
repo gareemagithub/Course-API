@@ -1,0 +1,6 @@
+create table courses
+(
+    courseid int primary key,
+    coursename varchar(30),
+    coursefees int
+)
